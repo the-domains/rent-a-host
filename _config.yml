@@ -1,0 +1,28 @@
+name: Rent-a-Host
+favicon: null
+layout_spectrum: 0.7814459325745702
+typography_spectrum: 0.38562947465106845
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9457052692305297
+  lightness: 0.9683653027750552
+  saturation: 0.6696599335409701
+  rhythmicContrast: 0.0057308541145175695
+purpose: []
