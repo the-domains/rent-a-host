@@ -2,6 +2,7 @@ name: Rent-a-Host
 favicon: null
 layout_spectrum: 0.7814459325745702
 typography_spectrum: 0.38562947465106845
+title: Rent-a-Host
 cta:
   domain: null
   bucket: null
